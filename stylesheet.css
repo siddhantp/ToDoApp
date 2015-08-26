@@ -1,0 +1,25 @@
+#header {
+	background-color: #99CCFF;
+	color:#0033CC;
+	font-size: 32px;
+	font-family: courier;
+}
+
+#instructions {
+	display: inline-block;
+	padding: 5px;
+	margin: 20px 50px 20px 150px;
+	border: 1px dotted #99CCFF;
+}
+
+#charcount {
+	display: inline;
+}
+
+#countcontent {
+	border: 1px solid red;
+	display: inline;
+}
+.checked {
+	text-decoration:line-through;
+}
